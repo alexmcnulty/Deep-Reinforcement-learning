@@ -4,6 +4,8 @@ The code is split into a seperate notebook for each question and part.
 
 To restore and test the models each notebook has instrucions at the start of which cells to run and which not to.
 
+# Games
+The Atari 2600 folder contains files to train an agent in Mrs Pacman, Boxing and Pong
 
 
 # Models
