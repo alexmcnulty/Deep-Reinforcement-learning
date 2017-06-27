@@ -25,4 +25,5 @@ Simply run the two notebooks to get the losses and accuracies in the report. The
 Both notebooks produce the images of the correct predictions and incorrect predictions in the report.
 
 
-
+# Models
+The models can be used to load the computational graph and produce the same results as seen in the notebooks.
