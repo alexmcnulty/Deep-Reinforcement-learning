@@ -19,12 +19,10 @@ Simply run all cells. Simlar to the case for the whole train set in Task 1, in p
 ### b) predictions: pixel_in_paint
 Simply run all cells. Each model is set up to run different predicted sequence lengths. The GRU 32 will predict 10, GRU 64 will predict 28 and both the 128 and 3 layer will predict 300. If you want to check the other sequence lengths are correct, just change seq_len variable in the code. Note that the outputs of the losses will be silghtly different due to sampling.
 
-# Task 3: Fill in the missing pixels
+## Task 3: Fill in the missing pixels
 Simply run the two notebooks to get the losses and accuracies in the report. The two npy files contain the predicted images, appended onto to the original file. 
 
 Both notebooks produce the images of the correct predictions and incorrect predictions in the report.
 
 
-```python
 
-```
