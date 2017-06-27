@@ -12,10 +12,4 @@ The models(named new_models) are inside the code folder as that is the address f
 # Results
 Results folder contain .npy files of the results which dont have a neural net or uninitialized neural net model. These can be loaded to print out the results optained in the experiments
 
-# Report
-The repost contains the relevent results and discussion for this assignmnet
-
-
-```python
-
-```
+Requires Gym to run.
